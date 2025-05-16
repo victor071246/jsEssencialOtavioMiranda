@@ -1,0 +1,162 @@
+[
+    {
+        "nome": "Bryan Silveira",
+        "email": "qfarias@ribeiro.com",
+        "telefone": "+55 (061) 1623-9081",
+        "endereco": "Vereda Alexandre Souza\nMinas Brasil\n83629-404 Barbosa / RR",
+        "data_nascimento": "1973-04-30",
+        "cpf": "975.103.826-02"
+    },
+    {
+        "nome": "Ana Clara Campos",
+        "email": "lorenaporto@moreira.com",
+        "telefone": "81 5256 2052",
+        "endereco": "Aeroporto de Caldeira\nMonsenhor Messias\n05934873 Cardoso / BA",
+        "data_nascimento": "1997-10-29",
+        "cpf": "574.190.362-25"
+    },
+    {
+        "nome": "João Vitor Cunha",
+        "email": "fariasbrenda@uol.com.br",
+        "telefone": "51 7138 6747",
+        "endereco": "Jardim Caio Carvalho, 539\nGrajaú\n74762-798 Fogaça / RO",
+        "data_nascimento": "1987-01-23",
+        "cpf": "380.961.245-60"
+    },
+    {
+        "nome": "Caio Ferreira",
+        "email": "anovaes@farias.br",
+        "telefone": "+55 (011) 2411-9486",
+        "endereco": "Distrito de Melo, 16\nVila Maloca\n10701442 Moreira / MA",
+        "data_nascimento": "1997-11-08",
+        "cpf": "210.843.956-06"
+    },
+    {
+        "nome": "Bruna Nascimento",
+        "email": "limamaria-vitoria@bol.com.br",
+        "telefone": "51 4867 5782",
+        "endereco": "Praça Alice Pinto, 94\nNovo Santa Cecilia\n17679775 da Cunha / PE",
+        "data_nascimento": "1987-10-29",
+        "cpf": "703.982.641-04"
+    },
+    {
+        "nome": "Nicolas Novaes",
+        "email": "elisa84@pires.br",
+        "telefone": "11 4641 6760",
+        "endereco": "Lagoa de Ribeiro, 372\nGlória\n71545-733 Azevedo do Norte / TO",
+        "data_nascimento": "1985-02-10",
+        "cpf": "274.598.061-02"
+    },
+    {
+        "nome": "Luiz Felipe Barbosa",
+        "email": "stephany74@nogueira.br",
+        "telefone": "(031) 3186-0554",
+        "endereco": "Lago de Silveira, 85\nRenascença\n46104-007 Caldeira de Ribeiro / MS",
+        "data_nascimento": "1964-01-31",
+        "cpf": "192.380.547-97"
+    },
+    {
+        "nome": "Laura Fernandes",
+        "email": "lucas-gabrielnunes@bol.com.br",
+        "telefone": "0800-861-6768",
+        "endereco": "Recanto de Castro, 85\nConjunto Providencia\n04466-945 Fogaça / SC",
+        "data_nascimento": "1985-06-18",
+        "cpf": "658.792.431-09"
+    },
+    {
+        "nome": "Sr. Noah Viana",
+        "email": "thiago83@da.com",
+        "telefone": "61 0593 6605",
+        "endereco": "Fazenda Santos, 323\nSanta Branca\n93602006 Moura da Mata / SP",
+        "data_nascimento": "1961-05-15",
+        "cpf": "391.406.728-40"
+    },
+    {
+        "nome": "Camila Pereira",
+        "email": "isabelviana@hotmail.com",
+        "telefone": "(081) 4448-5313",
+        "endereco": "Lagoa André Oliveira, 32\nPlanalto\n57088-386 Lopes da Praia / PE",
+        "data_nascimento": "1998-09-06",
+        "cpf": "594.378.126-91"
+    },
+    {
+        "nome": "Bianca Pereira",
+        "email": "lorenasales@da.com",
+        "telefone": "+55 41 9675 0643",
+        "endereco": "Praia Souza, 589\nSão Cristóvão\n19548975 Cavalcanti do Oeste / PI",
+        "data_nascimento": "1990-06-02",
+        "cpf": "861.039.527-86"
+    },
+    {
+        "nome": "Cauê Moreira",
+        "email": "uda-paz@ig.com.br",
+        "telefone": "+55 (021) 6426 3363",
+        "endereco": "Via Maria Cecília Nascimento, 62\nVila Calafate\n95365011 Rodrigues / PA",
+        "data_nascimento": "1973-05-11",
+        "cpf": "483.571.690-66"
+    },
+    {
+        "nome": "Levi Nunes",
+        "email": "gabrielcampos@campos.com",
+        "telefone": "31 1469-1554",
+        "endereco": "Favela Ana Sophia Lopes, 7\nMangueiras\n06418332 Barbosa da Mata / PE",
+        "data_nascimento": "1999-03-10",
+        "cpf": "716.392.504-25"
+    },
+    {
+        "nome": "Heloísa Correia",
+        "email": "joao-vitormoreira@uol.com.br",
+        "telefone": "+55 11 2885-2868",
+        "endereco": "Parque de Silveira, 4\nPadre Eustáquio\n66415099 Ribeiro / MT",
+        "data_nascimento": "1991-01-22",
+        "cpf": "708.913.462-87"
+    },
+    {
+        "nome": "Enzo Gabriel da Mota",
+        "email": "ojesus@da.org",
+        "telefone": "(061) 3359-2917",
+        "endereco": "Distrito Mirella Gonçalves, 1\nIpe\n55633-286 da Costa / PI",
+        "data_nascimento": "2004-10-03",
+        "cpf": "271.054.683-35"
+    },
+    {
+        "nome": "Srta. Isabelly Duarte",
+        "email": "wpereira@jesus.com",
+        "telefone": "11 5464-9146",
+        "endereco": "Setor Mirella Nogueira, 344\nOuro Preto\n20133-826 Nascimento de Goiás / PB",
+        "data_nascimento": "1998-09-15",
+        "cpf": "945.023.678-00"
+    },
+    {
+        "nome": "Olivia Mendes",
+        "email": "sda-rosa@moraes.br",
+        "telefone": "+55 (041) 6522 0583",
+        "endereco": "Conjunto de Azevedo\nAdemar Maldonado\n91902167 Campos / TO",
+        "data_nascimento": "1971-05-25",
+        "cpf": "109.736.452-61"
+    },
+    {
+        "nome": "João Guilherme das Neves",
+        "email": "kaiquenogueira@gmail.com",
+        "telefone": "+55 (081) 5966-7825",
+        "endereco": "Recanto Aragão, 67\nMinaslandia\n05474025 Aragão / SE",
+        "data_nascimento": "1994-09-21",
+        "cpf": "167.809.243-69"
+    },
+    {
+        "nome": "Vitória Porto",
+        "email": "rezendealana@ig.com.br",
+        "telefone": "+55 21 6169 3215",
+        "endereco": "Avenida Rodrigues, 52\nPetropolis\n42507-845 Nunes / BA",
+        "data_nascimento": "1997-04-17",
+        "cpf": "426.517.890-11"
+    },
+    {
+        "nome": "Leonardo Rodrigues",
+        "email": "araujobreno@ig.com.br",
+        "telefone": "(011) 5843-1035",
+        "endereco": "Praça Sophia da Cruz, 201\nGranja Werneck\n83693791 Ferreira de Cardoso / PI",
+        "data_nascimento": "1995-11-19",
+        "cpf": "062.914.853-89"
+    }
+]
